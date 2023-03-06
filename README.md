@@ -2,4 +2,6 @@
 
 Here is a countdown timer I created to a certain event.
 
-In this casem it's Legacy Camp 2023
+In this case it's Legacy Camp 2023
+
+Link to timer is (here)[https://davinaleong.github.io/proj-legacy-2023-countdown-timer/]
